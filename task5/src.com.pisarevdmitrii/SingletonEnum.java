@@ -1,7 +1,8 @@
 public enum SingletonEnum {
     INSTANCE;
-    public SingletonEnum getInstance(){
-        return  INSTANCE;
+
+    public SingletonEnum getInstance() {
+        return INSTANCE;
     }
 
 }

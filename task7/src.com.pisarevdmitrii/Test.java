@@ -12,7 +12,9 @@ public class Test {
 
     public static void main(String[] args) {
         lightweightTestPattern();
+/*
         facadePatternTest();
+*/
     }
 
     public static void lightweightTestPattern() {

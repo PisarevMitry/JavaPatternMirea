@@ -1,6 +1,7 @@
 import observer.CurrentConditionsDisplay;
 import observer.Observer;
 import observer.WeatherData;
+import state.LiquidState;
 import state.StateContext;
 
 /**
@@ -9,7 +10,7 @@ import state.StateContext;
 public class Test {
 
     public static void main(String[] args) {
-        observerPattern();
+       // observerPattern();
         statePattern();
     }
 
@@ -30,7 +31,7 @@ public class Test {
 
     public static void statePattern() {
         System.out.println("===========State pattern===========");
-        StateContext context = new StateContext();
+        StateContext context = new StateContext(new LiquidState());
         context.heat();
         context.heat();
         context.heat();

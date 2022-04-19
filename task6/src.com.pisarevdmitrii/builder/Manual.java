@@ -1,7 +1,13 @@
 package builder;
 
-import ru.mirea.task6.builder.components.*;
+import builder.components.CarType;
+import builder.components.Engine;
+import builder.components.GPSNavigator;
+import builder.components.Transmission;
+import builder.components.TripComputer;
+
 public class Manual {
+
     private final CarType carType;
     private final int seats;
     private final Engine engine;
@@ -9,8 +15,7 @@ public class Manual {
     private final TripComputer tripComputer;
     private final GPSNavigator gpsNavigator;
 
-    public Manual(CarType carType, int seats, Engine engine, Transmission transmission,
-                  TripComputer tripComputer, GPSNavigator gpsNavigator) {
+    public Manual(CarType carType, int seats, Engine engine, Transmission transmission, TripComputer tripComputer, GPSNavigator gpsNavigator) {
         this.carType = carType;
         this.seats = seats;
         this.engine = engine;

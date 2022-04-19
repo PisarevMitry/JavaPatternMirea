@@ -1,10 +1,10 @@
 package lightweight;
 
+import lombok.Data;
+
 import java.util.Objects;
 
-/**
- * todo Document type PersonType
- */
+@Data
 public class PersonType {
 
     private String skinColour;

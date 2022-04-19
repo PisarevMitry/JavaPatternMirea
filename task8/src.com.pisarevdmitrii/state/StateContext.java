@@ -5,7 +5,11 @@ package state;
  */
 public class StateContext {
 
-    private State state = new SolidState();
+    private State state;
+
+    public StateContext(State state) {
+        this.state = state;
+    }
 
     public void freeze() {
         System.out.println("Freezing " + state.getName() + " substance...");

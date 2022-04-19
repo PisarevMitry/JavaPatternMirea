@@ -11,7 +11,7 @@ public class Main {
                 int result = 0;
                 for (int i = 1; i <= 10; i++) {
                     result += i;
-                    Thread.sleep(1000);
+                    Thread.sleep(100);
                 }
                 return result;
             }

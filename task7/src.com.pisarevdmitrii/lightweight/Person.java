@@ -1,8 +1,8 @@
 package lightweight;
 
-/**
- * todo Document type Person
- */
+import lombok.Data;
+
+@Data
 public class Person {
 
     private int x;

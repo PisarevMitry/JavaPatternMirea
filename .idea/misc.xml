@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/task9" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/task11/pom.xml" />
+        <option value="$PROJECT_DIR$/task12-1/pom.xml" />
+        <option value="$PROJECT_DIR$/task12/pom.xml" />
+        <option value="$PROJECT_DIR$/task13/pom.xml" />
+        <option value="$PROJECT_DIR$/task14/pom.xml" />
+        <option value="$PROJECT_DIR$/task18/pom.xml" />
+        <option value="$PROJECT_DIR$/task15/pom.xml" />
+        <option value="$PROJECT_DIR$/task16/pom.xml" />
+        <option value="$PROJECT_DIR$/task17/pom.xml" />
+        <option value="$PROJECT_DIR$/task10/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

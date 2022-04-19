@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c2f3b0c-aae9-4180-b118-97d9ef1ade0e" name="Changes" comment="@init">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/condition.md" beforeDir="false" afterPath="$PROJECT_DIR$/task10/condition.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/config/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/entity/Boxer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/entity/Fighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/entity/Judoka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/main/java/entity/StreetFighter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10/src/test/java/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/src/main/java/com/pisarevdmitrii/task11/Task11Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task11/src/test/java/com/pisarevdmitrii/task11/Task11ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4/src.com.pisarevdmitrii/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/task4/src.com.pisarevdmitrii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/task5/src.com.pisarevdmitrii/SingletonStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/CarBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/CarManualBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/CarManualBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/task6/src.com.pisarevdmitrii/builder/Manual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/PersonType.java" beforeDir="false" afterPath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/PersonType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/PersonsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/task7/src.com.pisarevdmitrii/lightweight/PersonsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/src.com.pisarevdmitrii/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/task8/src.com.pisarevdmitrii/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task8/src.com.pisarevdmitrii/state/StateContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/task8/src.com.pisarevdmitrii/state/StateContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9/condition.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/task9">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/task9">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GrdlTsk" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GrdlTsk" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+    <option name="isSearchInLibrariesForStructure" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26p6jeY0tnqCyGGOnitHMBklmNI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/task15/src/main/java/com/example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/task18" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.task15.service" />
+      <recent name="com.example.task15.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task18" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task17" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task16" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task15" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task14" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task12\src\main\java\org\example\task12" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task10" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task17\src\main\java\com\example\task17\config" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task17" />
+      <recent name="C:\Users\dpisa\Desktop\JavaPatternMirea\task14" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="task12.src.test" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn spring-boot:run -Drun.arguments=--customArgument=file1,--customArgument=file2" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task14" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task14.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task11" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pisarevdmitrii.task11.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task16" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task16.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task18" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task18.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task15" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task15.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="task17" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task17.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="task13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.task13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.task13.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Task12" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (2)" />
+      <item itemvalue="Spring Boot.Application (3)" />
+      <item itemvalue="Spring Boot.Application (4)" />
+      <item itemvalue="Spring Boot.Application (5)" />
+      <item itemvalue="Spring Boot.Application (6)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.Task12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c2f3b0c-aae9-4180-b118-97d9ef1ade0e" name="Changes" comment="" />
+      <created>1648108316424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648108316424</updated>
+      <workItem from="1648108318110" duration="6326000" />
+      <workItem from="1648201729097" duration="4976000" />
+      <workItem from="1649366308024" duration="3252000" />
+      <workItem from="1649370164872" duration="1419000" />
+      <workItem from="1649407906742" duration="5141000" />
+      <workItem from="1650201711479" duration="20502000" />
+      <workItem from="1650276459395" duration="3760000" />
+      <workItem from="1650380625344" duration="5412000" />
+      <workItem from="1650398243782" duration="2168000" />
+      <workItem from="1650400508106" duration="1335000" />
+    </task>
+    <task id="LOCAL-00001" summary="@init">
+      <created>1648114359990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648114359990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="@init" />
+    <option name="LAST_COMMIT_MESSAGE" value="@init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/task16/src/main/java/com/example/task16/service/impl/GameServiceImpl.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPatternMirea$App.ic" NAME="App Coverage Results" MODIFIED="1650204493990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+  </component>
+</project>
