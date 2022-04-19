@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.pisarevdmitrii</groupId>
+    <artifactId>java-pattern-mirea</artifactId>
+    <packaging>pom</packaging>
+    <version>0.0.1-SNAPSHOT</version>
+
+    <properties>
+        <java.version>11</java.version>
+    </properties>
+
+    <modules>
+        <!--         <module>task1</module>
+                <module>task2</module>
+                <module>task3</module>
+                <module>task4</module>
+                <module>task5</module>
+                <module>task6</module>
+                <module>task7</module>
+                <module>task8</module>
+                <module>task9</module> -->
+        <module>task10</module>
+        <module>task11</module>
+        <module>task12</module>
+        <module>task13</module>
+        <module>task14</module>
+        <module>task15</module>
+        <module>task16</module>
+        <module>task17</module>
+        <module>task18</module>
+        <module>task19</module>
+        <!--     <module>task19</module>
+            <module>task20</module>
+            <module>task21</module>
+            <module>task22</module>
+            <module>task23</module>
+            <module>task24</module> -->
+    </modules>
+</project>

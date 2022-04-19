@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Task 16" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="task16" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.task16.Application" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

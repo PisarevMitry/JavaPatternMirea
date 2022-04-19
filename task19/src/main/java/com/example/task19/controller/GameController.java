@@ -1,7 +1,7 @@
-package com.example.task17.controller;
+package com.example.task19.controller;
 
-import com.example.task17.entity.Game;
-import com.example.task17.service.impl.GameServiceImpl;
+import com.example.task19.entity.Game;
+import com.example.task19.service.impl.GameServiceImpl;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;

@@ -1,11 +1,11 @@
-package com.example.task18;
+package com.example.task19;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.domain.EntityScan;
 
 @SpringBootApplication
-@EntityScan("com.example.task18.*")
+@EntityScan("com.example.task19.*")
 public class Application {
 
     public static void main(String[] args) {

@@ -4,12 +4,6 @@
     <selectedOptions>
       <option name="vmParameters" visible="false" />
     </selectedOptions>
-    <extension name="coverage">
-      <pattern>
-        <option name="PATTERN" value="org.example.task12.*" />
-        <option name="ENABLED" value="true" />
-      </pattern>
-    </extension>
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.task12.Application" />
     <option name="PROGRAM_PARAMETERS" value="file1 file2" />
     <option name="ALTERNATIVE_JRE_PATH" />

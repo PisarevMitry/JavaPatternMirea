@@ -61,7 +61,7 @@ public class GameController {
         gameService.deleteById(id);
     }
 
-    @GetMapping("/game-authors/filter")
+    @GetMapping("/games/filter")
     public List<Game> userFilter(
             @RequestParam(defaultValue = "")
                     String field,
